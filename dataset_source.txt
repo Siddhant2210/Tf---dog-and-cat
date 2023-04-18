@@ -1,0 +1,5 @@
+https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data
+
+
+
+Log loss equation used used - https://www.kaggle.com/competitions/dogs-vs-cats-redux-kernels-edition/overview/evaluation(Function overided)
